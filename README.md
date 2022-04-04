@@ -15,7 +15,7 @@
 
 ## Demo
 Demo you can find here:<br>
-[https://sklep.projectcode.pl](https://sklep.projectcode.pl)
+[https://happy-shop.vercel.app](https://happy-shop.vercel.app)
 
 ## Warning
 This project is under development and it is not recommended to use it.
